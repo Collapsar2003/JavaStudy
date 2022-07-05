@@ -1,2 +1,2 @@
-# Java Study Log
-- day 0: new folder��doge)
+﻿# Java Study Log
+- day 0: 新建文件夹 (doge)
